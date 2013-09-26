@@ -67,6 +67,14 @@ body {
     margin-top: 28px;
 }
 
+#results {
+    font-size: 1em;
+    margin-top: 1em;
+    padding: 1em;
+    text-align: center;
+    background: #ffffff;
+}
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
     .container {
